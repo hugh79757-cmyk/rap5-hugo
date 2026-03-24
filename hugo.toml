@@ -1,0 +1,70 @@
+baseURL = "https://rap5.informationhot.kr/"
+languageCode = "ko"
+title = "브랜드 아파트 백과"
+theme = "blowfish"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 20
+
+[params]
+  colorScheme = "autumn"
+  description = "브랜드 아파트 단지 분석과 투자 가치 리포트"
+  mainSections = ["posts"]
+  enableSearch = true
+
+  [params.homepage]
+    layout = "profile"
+    showRecent = true
+    recentLimit = 12
+
+  [params.article]
+    showDate = true
+    showReadingTime = true
+    showAuthor = false
+    showHero = true
+    heroStyle = "background"
+    showSummary = true
+    sharingLinks = ["facebook", "x-twitter", "threads"]
+
+  [params.list]
+    showHero = true
+    heroStyle = "background"
+    showSummary = true
+    groupByYear = false
+
+  [params.taxonomy]
+    showTermCount = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.7
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menus.main]]
+  name = "글 목록"
+  pageRef = "posts"
+  weight = 10
+
+[[menus.main]]
+  name = "카테고리"
+  pageRef = "categories"
+  weight = 20
+
+[[menus.main]]
+  name = "태그"
+  pageRef = "tags"
+  weight = 30
