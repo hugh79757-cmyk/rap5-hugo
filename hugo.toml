@@ -1,4 +1,5 @@
 baseURL = "https://brand.informationhot.kr/"
+googleAnalytics = "G-XYQP04H4DJ"
 languageCode = "ko"
 title = "브랜드 아파트 백과"
 theme = "blowfish"
@@ -20,7 +21,7 @@ enableRobotsTXT = true
 
   [params.article]
     showDate = true
-    showReadingTime = true
+    showReadingTime = false
     showAuthor = false
     showHero = true
     heroStyle = "background"
