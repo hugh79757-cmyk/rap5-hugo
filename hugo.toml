@@ -20,6 +20,7 @@ enableRobotsTXT = true
     recentLimit = 12
 
   [params.article]
+  showWordCount = false
     showDate = true
     showReadingTime = false
     showAuthor = false
@@ -29,6 +30,7 @@ enableRobotsTXT = true
     sharingLinks = ["facebook", "x-twitter", "threads"]
 
   [params.list]
+  showWordCount = false
     showHero = true
     heroStyle = "background"
     showSummary = true
