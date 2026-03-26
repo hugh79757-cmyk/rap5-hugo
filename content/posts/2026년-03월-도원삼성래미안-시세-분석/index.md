@@ -62,7 +62,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ---
 
-## 프리미엄 입주 가전 추천
+## 부동산 거래 시 유용한 추천 상품
 
 - [슈어홈 4세대 가정용 공기청정기 소형, 화이트, 4세대 소형 공기청정기](https://link.coupang.com/a/ea5gvB) — 179,800원
 - [LG전자 디오스 인덕션 3구 방문설치](https://link.coupang.com/a/ea5gCa) — 744,790원

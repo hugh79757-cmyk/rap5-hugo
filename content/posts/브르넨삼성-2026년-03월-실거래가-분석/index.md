@@ -63,7 +63,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ---
 
-## 프리미엄 입주 가전 추천
+## 부동산 거래 시 유용한 추천 상품
 
 - [LG전자 퓨리케어 360도 Hit 공기청정기 62㎡](https://link.coupang.com/a/eaZoM8) — 321,000원
 - [3구 전기레인지 빌트인 스텐드 하이라이트 인덕션, 빌트인, 화이트](https://link.coupang.com/a/eaZoRM) — 368,000원

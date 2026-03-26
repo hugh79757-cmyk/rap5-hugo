@@ -70,7 +70,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ---
 
-## 프리미엄 입주 가전 추천
+## 부동산 거래 시 유용한 추천 상품
 
 - [키친아트 컨벡션 전기오븐 55L](https://link.coupang.com/a/ebbQQ4) — 118,880원
 - [RAiTEC nuguna 스탠다드 스마트 전동커튼 레일세트 방문설치, 화이트(리모컨)](https://link.coupang.com/a/ebbQUQ) — 203,000원
