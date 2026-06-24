@@ -1,0 +1,18 @@
+{{ $limit := .Site.Params.article.relatedContentLimit | default 3 }}
+{{ $related := (.Site.RegularPages.Related . ) | first $limit }}
+{{ with $related }}
+<div class="mt-8">
+  <h2 class="text-xl font-bold mb-3 text-neutral-800 dark:text-neutral-100">Related Posts</h2>
+  <ul class="space-y-2">
+    {{ range . }}
+    <li class="flex items-center gap-2 text-sm">
+      <span class="text-primary-500">›</span>
+      <a href="{{ .Permalink }}" class="text-neutral-700 dark:text-neutral-300 hover:text-primary-500 dark:hover:text-primary-400">
+        {{ .Title }}
+      </a>
+      <span class="text-neutral-400 dark:text-neutral-500 text-xs ml-auto">{{ .Date.Format "2006.01.02" }}</span>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
