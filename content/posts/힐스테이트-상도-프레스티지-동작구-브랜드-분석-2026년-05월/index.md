@@ -63,7 +63,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [삼성전자 Bespoke AI 인덕션 3구 글램화이트 방문설치](https://link.coupang.com/a/eCRAIw) — 930,000원
 - [보쉬 퍼펙트드라이 식기세척기 SMS68MI04E](https://link.coupang.com/a/eCRAK4) — 2,819,100.0원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

@@ -65,7 +65,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [코웨이 회오리 스스로 비데](https://link.coupang.com/a/esEwXk) — 332,100원
 - [보보스 와인셀러 JG-110B 최대 110병 빌트인겸용 듀얼타입, 단품](https://link.coupang.com/a/esEw1E) — 2,350,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

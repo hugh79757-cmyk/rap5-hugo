@@ -67,7 +67,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [보보스 와인셀러 JG-110B 최대 110병 빌트인겸용 듀얼타입, 단품](https://link.coupang.com/a/eyrs8c) — 2,350,000원
 - [BRUNO 대용량 오븐 에어프라이어 17L, BAF-2406, 베이지](https://link.coupang.com/a/eyrs9c) — 100,520원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

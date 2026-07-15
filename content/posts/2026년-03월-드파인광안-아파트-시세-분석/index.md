@@ -47,7 +47,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [LG전자 NEW 오브제컬렉션 스타일러 방문설치](https://link.coupang.com/a/ecqNeE) — 1,440,000원
 - [DJI ROMO P 로봇청소기 + 액세서리 키트 세트, 투명 + 화이트(청소기), 단일색상(키트), CR8E](https://link.coupang.com/a/ecqNiv) — 1,552,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 드파인광안 주변 지도로 확인하기</p>

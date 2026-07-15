@@ -74,7 +74,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [제니퍼룸 미니 오븐 토스터, JR-OT12WB(화이트)](https://link.coupang.com/a/ephtsj) — 51,010원
 - [위닉스 인버터 뽀송 제습기 21L DXWE210-NGK](https://link.coupang.com/a/ephtu5) — 379,270원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글

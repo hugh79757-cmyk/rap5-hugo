@@ -59,7 +59,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [드롱기 마그니피카 에보 전자동 커피머신](https://link.coupang.com/a/exjwZe) — 749,000원
 - [[무료설치,1년무상관리] 코웨이 아이콘 얼음정수기 스탠다드 CHPI-7410N](https://link.coupang.com/a/exjw2u) — 2,240,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

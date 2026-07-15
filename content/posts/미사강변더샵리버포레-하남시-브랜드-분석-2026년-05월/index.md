@@ -87,7 +87,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [삼익가구 허리탄탄 굿코어 본넬스프링 매트리스 방문설치](https://link.coupang.com/a/eGCNZA) — 129,000원
 - [보쉬 식기세척기 SMI46MS03E](https://link.coupang.com/a/eGCN2F) — 2,051,200.0원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글

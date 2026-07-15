@@ -55,7 +55,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [삼성전자 BESPOKE AI 식기세척기 빌트인 12인용](https://link.coupang.com/a/ebRITB) — 758,670원
 - [최신형 차이슨 무선 스틱 청소기 BLDC 흡입력 좋은 진공청소기 + 다양한 구성품 + 평생AS, V25000, 화이트](https://link.coupang.com/a/ebRIWo) — 168,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 드파인광안 주변 지도로 확인하기</p>

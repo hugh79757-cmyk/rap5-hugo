@@ -1,0 +1,13 @@
+{{- $socialImg := "" }}
+{{- with .Params.featureimage }}
+  {{- $socialImg = . }}
+{{- else }}
+  {{- with .Params.cover.image }}
+    {{- $socialImg = . }}
+  {{- end }}
+{{- end }}
+{{- with $socialImg }}
+<meta name="twitter:image" content="{{ . | absURL }}">
+<meta property="og:image" content="{{ . | absURL }}">
+<meta name="twitter:card" content="summary_large_image">
+{{- end }}

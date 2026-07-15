@@ -57,7 +57,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [위닉스 인버터 뽀송 제습기 21L DXWE210-NGK](https://link.coupang.com/a/egDdAA) — 398,050원
 - [[코웨이 얼음정수기 미니][전국 무료 빠른설치][셀프관리][BEST 더운 여름 인기] 여름 아이콘 얼음 코웨이 직수 냉수 온수 정수기 CHPI-7430N](https://link.coupang.com/a/egDdD6) — 2,550,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

@@ -64,7 +64,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [다이슨 에어랩 id 멀티 스타일러 앤 드라이어](https://link.coupang.com/a/efxwjV) — 548,630원
 - [삼성전자 62.6㎡(19평) BESPOKE AI 무풍 클래식 스탠드형 에어컨 + 리모컨 세트 AF70F19D11GZ 방문설치](https://link.coupang.com/a/efxwnx) — 1,931,160원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

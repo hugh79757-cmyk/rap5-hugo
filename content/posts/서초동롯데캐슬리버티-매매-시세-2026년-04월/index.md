@@ -61,7 +61,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [삼성전자 56.9㎡ + 18.7㎡ Bespoke AI 무풍콤보 갤러리 프로 2 in 1 멀티형 홈멀티형 에어컨 + 리모컨 세트 방문설치](https://link.coupang.com/a/evm9Bp) — 2,999,000원
 - [삼성전자 Bespoke AI 905L 4도어 냉장고 방문설치](https://link.coupang.com/a/evm9CN) — 1,728,970원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

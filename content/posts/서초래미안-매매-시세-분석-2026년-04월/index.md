@@ -80,7 +80,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [삼성전자 62.6㎡(19평) + 18.7㎡(5.7평) BESPOKE AI 무풍 클래식 홈멀티형 에어컨 AF70F19D11GRT + 리모컨 세트 방문설치](https://link.coupang.com/a/etebbQ) — 2,186,000원
 - [보쉬가전 보쉬 식기세척기 14인용 빌트인 SMI46MS03E](https://link.coupang.com/a/etebeA) — 2,246,400.0원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

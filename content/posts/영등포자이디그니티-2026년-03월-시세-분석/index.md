@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [대림바스 26신형 IPX7방수 풀터치 올인원 비데 집중버블세정 마사지 DDS-S160A, DDS-S160A, 고객직접설치](https://link.coupang.com/a/ecqNjQ) — 189,000원
 - [위즈웰 인헨스2 스팀 전기오븐, WOP200](https://link.coupang.com/a/ecqNnU) — 520,770원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 영등포자이디그니티 주변 지도로 확인하기</p>

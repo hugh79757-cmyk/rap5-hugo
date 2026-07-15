@@ -59,7 +59,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [제니퍼룸 미니 오븐 토스터 오트밀, JR-OT12OM](https://link.coupang.com/a/ee1cDl) — 50,250원
 - [[최신형] 차이슨 무선 스틱 청소기 BLDC 흡입력 좋은 진공청소기 + 다양한 구성품 + 평생AS, 화이트](https://link.coupang.com/a/ee1cFl) — 168,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

@@ -68,7 +68,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [위닉스 인버터 뽀송 제습기 21L DXWE210-NGK](https://link.coupang.com/a/eeO1WI) — 397,590원
 - [제니퍼룸 미니 오븐 토스터 오트밀, JR-OT12OM](https://link.coupang.com/a/eeO1Ys) — 50,250원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
   <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 진천풍림아이원 아파트 단지 주변 지도로 확인하기</p>

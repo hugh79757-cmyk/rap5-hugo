@@ -61,7 +61,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [보쉬 하츠 빌트인 식기세척기 14인용](https://link.coupang.com/a/eDfMb6) — 1,560,000.0원
 - [다이슨 에어랩 id 멀티 스타일러 앤 드라이어](https://link.coupang.com/a/eDfMeo) — 566,100원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글

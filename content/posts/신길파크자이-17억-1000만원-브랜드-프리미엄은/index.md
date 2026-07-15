@@ -80,7 +80,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [LG전자 2026 NEW 오브제컬렉션 스타일러 의류관리기 방문설치](https://link.coupang.com/a/emhWdK) — 1,540,000원
 - [삼성전자 BESPOKE AI 빌트인 열풍건조 식기세척기 14인용](https://link.coupang.com/a/emhWfT) — 987,580원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글

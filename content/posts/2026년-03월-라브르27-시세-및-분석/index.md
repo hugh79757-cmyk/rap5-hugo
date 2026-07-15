@@ -47,7 +47,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [슈어홈 4세대 가정용 공기청정기 소형, 화이트, 4세대 소형 공기청정기](https://link.coupang.com/a/ec2YJ7) — 179,800원
 - [삼성전자 AI 건조기 21kg 방문설치](https://link.coupang.com/a/ec2YLB) — 999,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 라브르27 주변 지도로 확인하기</p>

@@ -55,7 +55,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [매직쉐프 와인셀러 가정용 와인냉장고 미니 소형 술 저장고 와이너리 대용량 저소음](https://link.coupang.com/a/eegfYP) — 429,000원
 - [Qicco 침대 매트리스 무음 포켓스프링 바닥 매트리스, 20cm, 중간](https://link.coupang.com/a/eegf1t) — 210,800원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

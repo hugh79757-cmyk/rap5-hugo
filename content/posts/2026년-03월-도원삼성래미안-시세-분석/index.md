@@ -67,7 +67,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [슈어홈 4세대 가정용 공기청정기 소형, 화이트, 4세대 소형 공기청정기](https://link.coupang.com/a/ea5gvB) — 179,800원
 - [LG전자 디오스 인덕션 3구 방문설치](https://link.coupang.com/a/ea5gCa) — 744,790원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">

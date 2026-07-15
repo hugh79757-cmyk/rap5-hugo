@@ -54,7 +54,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [쿠잉 무타공 주키 손잡이있음 원격제어 IoT 현관문 스마트도어락 DL-BHT03BK + 보강판 + 게이트웨이 세트, DL-BHT03BK, 방문설치](https://link.coupang.com/a/ebFvnI) — 159,000원
 - [대림바스 26신형 IPX7방수 풀터치 올인원 비데 집중버블세정 마사지 DDS-S160A, DDS-S160A, 고객직접설치](https://link.coupang.com/a/ebFvqg) — 189,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
   <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 아크로드서초 주변 지도로 확인하기</p>

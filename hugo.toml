@@ -1,9 +1,7 @@
 baseURL = "https://brand.informationhot.kr/"
-googleAnalytics = "G-XYQP04H4DJ"
 languageCode = "ko"
 title = "브랜드 아파트 백과"
 theme = "blowfish"
-themesDir = "/Users/twinssn/Projects/shared-themes"
 enableRobotsTXT = true
 
 [pagination]
@@ -59,6 +57,9 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+    [markup.goldmark.extensions]
+      strikethrough = false
 
 [[menus.main]]
   name = "글 목록"

@@ -67,7 +67,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [LG전자 코드제로 오브제컬렉션 A7 Core 스틱청소기](https://link.coupang.com/a/ewaaZm) — 489,240원
 - [위닉스 인버터 뽀송 제습기 21L DXWE210-NGK](https://link.coupang.com/a/ewaa0F) — 407,190원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

@@ -63,7 +63,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [제니퍼룸 미니 오븐 토스터, JR-OT12WB(화이트)](https://link.coupang.com/a/eDtWkN) — 50,230원
 - [KURUA 침대 매트리스 독립스프링 매트리스](https://link.coupang.com/a/eDtWmC) — 166,800원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

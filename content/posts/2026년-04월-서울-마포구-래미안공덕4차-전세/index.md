@@ -67,7 +67,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [네스프레소 버츄오 업 캡슐 커피머신, 블랙, MD1-BK](https://link.coupang.com/a/ew1hRe) — 199,000원
 - [[무료설치,1년무상관리] 코웨이 아이콘 얼음정수기 스탠다드 CHPI-7410N](https://link.coupang.com/a/ew1hRU) — 2,240,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

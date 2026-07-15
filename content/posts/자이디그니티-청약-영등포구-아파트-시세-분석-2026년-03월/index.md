@@ -53,7 +53,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [홈플래닛 초음파 가습기 4L](https://link.coupang.com/a/edYTKH) — 29,890원
 - [마마바 자유로운 길이조절 전동커튼 레일 3세대 가변형](https://link.coupang.com/a/edYTMG) — 154,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

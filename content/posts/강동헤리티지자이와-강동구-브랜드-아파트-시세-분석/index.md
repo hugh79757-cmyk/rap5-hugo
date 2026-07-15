@@ -73,7 +73,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [보보스 와인셀러 JG-110B 최대 110병 빌트인겸용 듀얼타입, 단품](https://link.coupang.com/a/eDHU6L) — 2,350,000원
 - [다이슨 싸이클론 V10 무선청소기](https://link.coupang.com/a/eDHU8H) — 356,960원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

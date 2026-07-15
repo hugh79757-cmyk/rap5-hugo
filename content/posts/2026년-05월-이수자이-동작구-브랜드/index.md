@@ -76,7 +76,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [삼성전자 BESPOKE AI 빌트인 열풍건조 식기세척기 14인용](https://link.coupang.com/a/eCX8m7) — 977,700원
 - [드롱기 마그니피카 에보 전자동 커피머신](https://link.coupang.com/a/eCX8px) — 747,800원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

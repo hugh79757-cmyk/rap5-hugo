@@ -65,7 +65,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [제니퍼룸 미니 오븐 토스터 오트밀, JR-OT12OM](https://link.coupang.com/a/eyG1yB) — 50,250원
 - [삼성 비스포크 무풍 콤보 갤러리 프로 멀티 2in1에어컨 AF90H19D24GRS 19+6평 실외기포함](https://link.coupang.com/a/eyG1BO) — 3,255,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

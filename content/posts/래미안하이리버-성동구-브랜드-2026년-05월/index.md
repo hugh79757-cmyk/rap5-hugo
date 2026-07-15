@@ -65,7 +65,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [[위닉스] 뽀송 1등급 인버터 제습기 19L DXJH193-KWK 공식인증점, 상세 설명 참조](https://link.coupang.com/a/eA2AEM) — 429,000원
 - [삼성 Bespoke AI 무풍콤보 갤러리 2in1 멀티에어컨 17평+6평 AF80F17D22WR 설치, 일반 배관 유형, AF80F17D22WR](https://link.coupang.com/a/eA2AHl) — 2,580,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

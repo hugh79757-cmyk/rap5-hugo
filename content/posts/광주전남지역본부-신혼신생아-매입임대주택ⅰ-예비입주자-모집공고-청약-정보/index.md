@@ -57,7 +57,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [LG 디오스 오브제컬렉션 와인셀러 121병 W1212GB](https://link.coupang.com/a/egzv1P) — 1,716,800원
 - [LG전자 코드제로 오브제컬렉션 A7 Core 스틱청소기 A720TA + 올인원타워 T-ST2TL 세트](https://link.coupang.com/a/egzv4P) — 572,590원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

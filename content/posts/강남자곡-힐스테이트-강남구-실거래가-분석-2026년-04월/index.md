@@ -58,7 +58,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [삼익가구 허리탄탄 굿코어 본넬스프링 매트리스 방문설치](https://link.coupang.com/a/erd87S) — 129,000원
 - [네스프레소 버츄오 업 캡슐 커피머신, 화이트, MD1-WH](https://link.coupang.com/a/erd9aN) — 373,130원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

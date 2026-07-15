@@ -72,7 +72,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [(LG전자) DIOS(디오스) 와인셀러 오브제컬렉션 121병 (베이지/W1212GB)](https://link.coupang.com/a/evmKrU) — 1,928,000원
 - [KURUA 침대 매트리스(슈퍼싱글)독립스프링 매트리스](https://link.coupang.com/a/evmKuC) — 69,800원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

@@ -52,7 +52,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [RAiTEC nuguna 스탠다드 스마트 전동커튼 레일세트 방문설치, 화이트(리모컨)](https://link.coupang.com/a/ecwS6c) — 203,000원
 - [세스코 워터 스마트핏 미니 정수기 방문설치, EW-210](https://link.coupang.com/a/ecwTaC) — 139,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 라클라체자이드파인 주변 지도로 확인하기</p>

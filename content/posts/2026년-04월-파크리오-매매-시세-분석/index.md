@@ -78,7 +78,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [LG SIGNATURE 세탁건조기 25/13/4kg FH25LMTH](https://link.coupang.com/a/esIPud) — 7,850,000원
 - [삼성전자 Bespoke 인덕션 3구 방문설치](https://link.coupang.com/a/esIPwA) — 741,210원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

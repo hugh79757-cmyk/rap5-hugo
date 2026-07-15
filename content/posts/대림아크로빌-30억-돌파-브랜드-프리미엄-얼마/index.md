@@ -81,7 +81,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [코웨이 회오리 스스로 비데](https://link.coupang.com/a/eozIXp) — 332,100원
 - [일룸 데일리 라이트 펌 매트리스 SS](https://link.coupang.com/a/eozI0x) — 499,500.0원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글
