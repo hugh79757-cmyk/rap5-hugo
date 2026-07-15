@@ -2,6 +2,7 @@ baseURL = "https://brand.informationhot.kr/"
 languageCode = "ko"
 title = "브랜드 아파트 백과"
 theme = "blowfish"
+themesDir = "/Users/twinssn/Projects/shared-themes"
 enableRobotsTXT = true
 
 [pagination]
